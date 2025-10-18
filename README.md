@@ -32,3 +32,6 @@ pip install opencv-python cvzone pynput numpy
 ## About SWE180
 
 This project is part of SWE180. You can learn more about SWE180 at www.swe180.com, founded by Aarsh Patel.
+
+![Screenshot](Screenshot 2025-10-17 180928.png)
+![WhatsApp Image](WhatsApp Image 2025-10-18 at 3.41.17 PM (1).jpeg)
